@@ -1,0 +1,17 @@
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/NewSampleUsing.exe
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/NewSampleUsing.pdb
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/NativeLibrary.dll
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/bin/iPhoneSimulator/Debug/NativeLibrary.pdb
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/actool/_PartialAppManifest.items
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/coremlc/_PartialAppManifest.items
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/optimized/
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/NewSampleUsing.csprojAssemblyReference.cache
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/NewSampleUsing.csproj.CoreCompileInputs.cache
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/NewSampleUsing.csproj.CopyComplete
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/NewSampleUsing.exe
+/Users/bridgelabz/Projects/NewSampleUsing/NewSampleUsing/obj/iPhoneSimulator/Debug/NewSampleUsing.pdb

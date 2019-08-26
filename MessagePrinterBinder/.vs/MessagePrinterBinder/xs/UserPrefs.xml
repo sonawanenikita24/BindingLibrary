@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessagePrinterBinder/ApiDefinition.cs">
+    <Files>
+      <File FileName="MessagePrinterBinder/ApiDefinition.cs" Line="9" Column="31" />
+      <File FileName="MessagePrinterBinder/Structs.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessagePrinterBinder" expanded="True" selected="True">
+            <Node name="MessagePrinterBinder" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

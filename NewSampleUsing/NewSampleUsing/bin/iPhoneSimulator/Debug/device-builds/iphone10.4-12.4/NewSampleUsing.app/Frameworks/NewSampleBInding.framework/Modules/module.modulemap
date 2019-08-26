@@ -1,0 +1,11 @@
+framework module NewSampleBInding {
+  umbrella header "NewSampleBInding.h"
+
+  export *
+  module * { export * }
+}
+
+module NewSampleBInding.Swift {
+    header "NewSampleBInding-Swift.h"
+    requires objc
+}

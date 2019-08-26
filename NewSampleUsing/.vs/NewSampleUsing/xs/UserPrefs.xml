@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0967603-88EB-42E6-BA11-FE4C227E381E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewSampleUsing/Main.cs">
+    <Files>
+      <File FileName="NewSampleUsing/Main.storyboard" />
+      <File FileName="NewSampleUsing/ViewController.cs" />
+      <File FileName="NewSampleUsing/Main.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewSampleUsing" expanded="True">
+            <Node name="MessagePrinterBinder" expanded="True" />
+            <Node name="NewSampleUsing" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.NewSampleUsing PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A1E87B00-AC64-4939-A1A3-BA22FFBFDE26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/bridgelabz/Projects/MessagePrinterBinder/MessagePrinterBinder/bin/Debug/NativeLibrary.dll
+/Users/bridgelabz/Projects/MessagePrinterBinder/MessagePrinterBinder/bin/Debug/NativeLibrary.pdb
+/Users/bridgelabz/Projects/MessagePrinterBinder/MessagePrinterBinder/obj/Debug/MessagePrinterBinder.csproj.CoreCompileInputs.cache
+/Users/bridgelabz/Projects/MessagePrinterBinder/MessagePrinterBinder/obj/Debug/NativeLibrary.dll
+/Users/bridgelabz/Projects/MessagePrinterBinder/MessagePrinterBinder/obj/Debug/NativeLibrary.pdb
